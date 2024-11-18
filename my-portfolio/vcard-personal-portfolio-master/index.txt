@@ -1,0 +1,225 @@
+<h1>Hello, I'm Vanisha Prasad</h1>
+<p>I am currently pursuing a Bachelor's degree in Software Engineering with a specialization in Artificial Intelligence at Media Design School. I am passionate about coding, AI, and building innovative tech solutions that make a difference. I am excited to share my journey and work with you through this portfolio.</p>
+<h2>My Projects</h2>
+
+<div>
+    <h3>Project 1: Tomato Leaf Disease Detection</h3>
+    <p>Developed a web-based AI model that detects tomato leaf diseases using Convolutional Neural Networks (CNN). The model helps farmers identify and treat diseases early, improving crop yields.</p>
+</div>
+
+<div>
+    <h3>Project 2: Inventory System in C++</h3>
+    <p>Created a fully functional inventory management system using doubly-linked lists and Quicksort for sorting. This project focuses on efficient data handling and file input/output operations.</p>
+</div>
+
+<div>
+    <h3>Project 3: Battleship Game</h3>
+    <p>Designed and implemented a console-based Battleship game in C++. It features user input validation, randomized ship placement, and interactive gameplay.</p>
+</div>
+
+<h2>Contact Me</h2>
+<p>Email: vanisha.prasad@example.com</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/vanishaprasad">linkedin.com/in/vanishaprasad</a></p>
+
+<p>
+    As a future software engineer specializing in Artificial Intelligence, my goal is to design and develop intelligent systems that solve real-world problems.
+    I enjoy working on AI models, web applications, and software projects that are not only functional but also optimized for performance and user experience.
+    Through my work, I strive to create solutions that are efficient, user-friendly, and impactful.
+</p>
+<p>
+    My passion lies in bringing innovative ideas to life through technology. I have worked on projects ranging from AI-based disease detection to game development and data management systems.
+    Each project has helped me refine my skills in coding, problem-solving, and software architecture.
+    I look forward to using my knowledge to contribute to more exciting projects in the future.
+</p>
+
+<!-- ABOUT -->
+
+<article class="about active" data-page="about">
+
+  <header>
+    <h2 class="h2 article-title">About me</h2>
+  </header>
+
+  <section class="about-text">
+    <p>
+      As a future software engineer specializing in Artificial Intelligence, my goal is to design and develop intelligent systems that solve real-world problems.
+      I enjoy working on AI models, web applications, and software projects that are not only functional but also optimized for performance and user experience.
+      Through my work, I strive to create solutions that are efficient, user-friendly, and impactful.
+    </p>
+
+    <p>
+      My passion lies in bringing innovative ideas to life through technology. I have worked on projects ranging from AI-based disease detection to game development and data management systems.
+      Each project has helped me refine my skills in coding, problem-solving, and software architecture.
+      I look forward to using my knowledge to contribute to more exciting projects in the future.
+    </p>
+
+  </section>
+
+</article>
+
+<!--
+  - skills
+-->
+
+<section class="service">
+
+    <h3 class="h3 service-title">My Skills</h3>
+
+    <ul class="service-list">
+
+        <li class="service-item">
+
+            <div class="service-icon-box">
+                <img src="./assets/images/icon-ai.svg" alt="AI icon" width="40">
+            </div>
+
+            <div class="service-content-box">
+                <h4 class="h4 service-item-title">Artificial Intelligence</h4>
+
+                <p class="service-item-text">
+                    Experience in developing AI models and applications using various machine learning techniques and tools.
+                </p>
+            </div>
+
+        </li>
+
+        <li class="service-item">
+
+            <div class="service-icon-box">
+                <img src="./assets/images/icon-webdev.svg" alt="Web development icon" width="40">
+            </div>
+
+            <div class="service-content-box">
+                <h4 class="h4 service-item-title">Web Development</h4>
+
+                <p class="service-item-text">
+                    Skilled in creating responsive and functional web applications using HTML, CSS, JavaScript, and frameworks.
+                </p>
+            </div>
+
+        </li>
+
+        <li class="service-item">
+
+            <div class="service-icon-box">
+                <img src="./assets/images/icon-python.svg" alt="Python icon" width="40">
+            </div>
+
+            <div class="service-content-box">
+                <h4 class="h4 service-item-title">Python Programming</h4>
+
+                <p class="service-item-text">
+                    Proficient in Python for developing scripts, applications, and data analysis.
+                </p>
+            </div>
+
+        </li>
+
+        <li class="service-item">
+
+            <div class="service-icon-box">
+                <img src="./assets/images/icon-data.svg" alt="Data science icon" width="40">
+            </div>
+
+            <div class="service-content-box">
+                <h4 class="h4 service-item-title">Data Analysis</h4>
+
+                <p class="service-item-text">
+                    Capable of analyzing and visualizing data to derive meaningful insights using various tools and techniques.
+                </p>
+            </div>
+
+        </li>
+
+    </ul>
+
+</section>
+
+<!--
+  - testimonials
+-->
+
+<section class="testimonials">
+
+    <h3 class="h3 testimonials-title">Testimonials</h3>
+
+    <ul class="testimonials-list has-scrollbar">
+
+        <li class="testimonials-item">
+            <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                    <img src="./assets/images/avatar-1.png" alt="John Doe" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>John Doe</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                    <p>
+                        "Vanisha's work on our AI project was exceptional. Her attention to detail and innovative approach made a significant impact on our results. Highly recommend!"
+                    </p>
+                </div>
+
+            </div>
+        </li>
+
+        <li class="testimonials-item">
+            <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                    <img src="./assets/images/avatar-2.png" alt="Jane Smith" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Jane Smith</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                    <p>
+                        "Working with Vanisha was a pleasure. Her understanding of complex software engineering concepts and her dedication to the project made a real difference."
+                    </p>
+                </div>
+
+            </div>
+        </li>
+
+        <li class="testimonials-item">
+            <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                    <img src="./assets/images/avatar-3.png" alt="Alex Johnson" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Alex Johnson</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                    <p>
+                        "Vanisha demonstrated impressive skills in AI and web development. Her ability to tackle complex problems and provide effective solutions is truly commendable."
+                    </p>
+                </div>
+
+            </div>
+        </li>
+
+        <li class="testimonials-item">
+            <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                    <img src="./assets/images/avatar-4.png" alt="Emily Davis" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Emily Davis</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                    <p>
+                        "Vanisha's contributions to our software project were invaluable. Her technical expertise and problem-solving skills were key to our success."
+                    </p>
+                </div>
+
+            </div>
+        </li>
+
+    </ul>
+
+</section>
+
+
+

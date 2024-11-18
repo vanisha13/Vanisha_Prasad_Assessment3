@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vanisha's Portfolio</title> <!-- Corrected the extra apostrophe -->
+    <link rel="stylesheet" href="styles.css"> <!-- Add your CSS file -->
+    <style>
+        /* Inline basic styles, you can move this to an external stylesheet */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+
+            header h1 {
+                margin: 0;
+            }
+
+        nav {
+            text-align: center;
+            background-color: #555;
+            padding: 1rem;
+        }
+
+            nav a {
+                color: white;
+                margin: 0 15px;
+                text-decoration: none;
+            }
+
+        section {
+            padding: 2rem;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+            section h2 {
+                text-align: center;
+            }
+
+        .testimonials, .clients, .contact, .resume {
+            margin-bottom: 3rem;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            /* Removed 'fixed' position to avoid overlapping content */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header section -->
+    <header>
+        <h1>Vanisha's Portfolio</h1>
+        <p>Web Developer | Software Engineer | Front-End Specialist</p>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#resume">Resume</a>
+        <a href="#testimonials">Testimonials</a>
+        <a href="#clients">Clients</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Main content section -->
+    <main>
+        <!-- About Me Section -->
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Welcome to my portfolio. I am a web developer specializing in front-end and back-end technologies. I have experience with HTML, CSS, JavaScript, Python, Flask, and much more. Take a look at my work and feel free to get in touch!</p>
+        </section>
+
+        <!-- Resume Section -->
+        <section id="resume" class="resume">
+            <h2>Resume</h2>
+            <ul>
+                <li>Bachelor of Information Technology - Media Design School</li>
+                <li>Experience in VirtualBox, Ubuntu Server, and Client Configuration</li>
+                <li>Proficient in C++, Python, Flask, TensorFlow, and Web Development</li>
+            </ul>
+        </section>
+
+        <!-- Testimonials Section -->
+        <section id="testimonials" class="testimonials">
+            <h2>Testimonials</h2>
+            <blockquote>"Great work and commitment to all projects!"</blockquote>
+            <p>- Lecturer, Media Design School</p>
+        </section>
+
+        <!-- Clients Section -->
+        <section id="clients" class="clients">
+            <h2>Clients</h2>
+            <p>Below are a few of the clients I've had the pleasure of working with:</p>
+            <ul>
+                <li>Client 1 - Web Development</li>
+                <li>Client 2 - Custom Software Solutions</li>
+            </ul>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact">
+            <h2>Contact</h2>
+            <form action="submit_form.php" method="post">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required><br><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required><br><br>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea><br><br>
+
+                <input type="submit" value="Submit">
+            </form>
+        </section>
+    </main>
+
+    <!-- Footer section -->
+    <footer>
+        <p>&copy; 2024 Vanisha Prasad. All Rights Reserved.</p>
+        <p>
+            Connect with me:
+            <a href="mailto:vanisha.prasad@mds.com">vanisha.prasad@mds.com</a> | <!-- Updated email -->
+            <a href="https://www.linkedin.com/in/vanisha-prasad-208935678/" target="_blank">LinkedIn</a> |
+            <a href="https://github.com/vanisha13/Vanisha_Prasad_Assessment3" target="_blank">GitHub</a>
+        </p>
+    </footer>
+
+</body>
+</html>
